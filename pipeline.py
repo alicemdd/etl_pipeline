@@ -50,6 +50,6 @@ def itera_update():
 def executa_msg():
     itera_news()
     itera_update()
-
+    
 
 executa_msg()
